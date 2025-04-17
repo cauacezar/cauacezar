@@ -1,5 +1,5 @@
 
-# 🚀 Olá, sou [Cauã Santos]!
+# 🚀 Olá, sou Cauã Santos!
 
 Atualmente, estou cursando o Técnico em Desenvolvimento de Sistemas no SENAI, onde estou aprendendo as seguintes tecnologias:
 
@@ -21,9 +21,9 @@ Atualmente, estou cursando o Técnico em Desenvolvimento de Sistemas no SENAI, o
 
 Estou cursando o Técnico de Desenvolvimento de Sistemas no SENAI, onde tenho aprendido:
 - **Lógica de Programação e Algoritmos**.
-- **Sistemas Operacionais.
-- **Arquitetura de Redes com ioT.
-- **Levantamento de Requisitos.
+- **Sistemas Operacionais**.
+- **Arquitetura de Redes com ioT**.
+- **Levantamento de Requisitos**.
 
 ## 🎯 Expectativas para o Futuro
 

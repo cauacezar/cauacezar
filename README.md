@@ -31,4 +31,5 @@ Com o término do curso, espero conseguir um estágio ou um emprego mehlhor como
 
 ## 📲 Contato.
 **Gmail**: caua230309silva@gmail.com
+
 **Linkedin Perfil**: Cauã Santos

@@ -29,7 +29,7 @@ Estou cursando o Técnico de Desenvolvimento de Sistemas no SENAI, onde tenho ap
 
 Com o término do curso, espero conseguir um estágio ou um emprego mehlhor como desenvolvedor para aplicar o que aprendi em projetos reais. Meu objetivo é me tornar um Engenheiro de Software
 
-<!--
+<!-
 **cauacezar/cauacezar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
